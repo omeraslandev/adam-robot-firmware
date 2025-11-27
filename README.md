@@ -1,2 +1,1 @@
-# ADAM_Robot_Firmware
-v0.1 version on 2026
+# A.D.A.M. (Altyapıdan Bağımsız Dağıtık Arama Modülleri)
